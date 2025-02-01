@@ -12,8 +12,8 @@
 ## Installation et exécution
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/HaddarMelek/LibraryManagementSystem.git
-   cd LibraryManagementSystem
+   git clone https://github.com/HaddarMelek/LibraryManager.git
+   cd LibraryManager
    ```
 2. **Installation des dépendances** :
    - Pour le frontend :
